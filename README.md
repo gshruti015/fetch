@@ -42,7 +42,7 @@ A detailed document covering all identified **data integrity issues** and potent
 
 ## Data Integrity Issues
 
-### Revenue & Consumer Impacting Issues (High Priority) 🚨
+### Revenue & Consumer Impacting Issues (High Priority)
 *Issues that directly affect revenue, consumer experience, and brand partnerships.*
 
 - **Barcode & Brand Code Mismatches**  
@@ -67,7 +67,7 @@ A detailed document covering all identified **data integrity issues** and potent
 
 ---
 
-### Operational & Analytical Integrity Issues (Medium Priority) ⚠️
+### Operational & Analytical Integrity Issues (Medium Priority)
 *Issues that affect data consistency, analytics accuracy, and business intelligence but don’t immediately disrupt revenue or consumer experience.*
 
 - **Invalid Receipt Status Overwriting (Lack of Change Tracking)**  
@@ -84,7 +84,7 @@ A detailed document covering all identified **data integrity issues** and potent
 
 ---
 
-### Minor Data Quality & Enhancements (Low Priority) 🔍
+### Minor Data Quality & Enhancements (Low Priority)
 *Issues that don’t immediately impact operations but could improve reporting and efficiency if addressed.*
 
 - **Items Missing Key Identifiers**  
