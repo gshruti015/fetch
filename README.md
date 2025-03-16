@@ -25,17 +25,18 @@ The dataset includes key entities such as:
 Contains a detailed breakdown of the database schema along with an embedded image of the model.  
 
 ### 📌 [SQL Analysis Script](sql/queries.sql)  
+Contains SQL queries as per assignment 
 
 ### 📌 [Exploratory Data Analysis (EDA) Notebook](notebooks/fetch_eda.ipynb)  
 An interactive Jupyter Notebook exploring the dataset, highlighting trends, and visualizing key insights.  
 
-### 📌 [Stakeholder Summary](question4_stakeholderSummary.html)
+### 📌 [Stakeholder Summary](question4_stakeholderSummary.pdf)
 A high-level document outlining the **main data issues** and **proposed improvements** for business stakeholders.  
 
 ### 📌 [Project Brief](documents/fetch_dataQaulityIssues_brief.pdf)  
 A concise summary designed for stakeholders, explaining the project's scope, objectives, and design approach.  
 
-### 📌 [Deep Dive: Data Issues & Recommended Fixes](documents/fetch_dataQualityIsuues_deepDive.html)  
+### 📌 [Deep Dive: Data Issues & Recommended Fixes](documents/fetch_dataQualityIsuues_deepDive.pdf)  
 A detailed document covering all identified **data integrity issues** and potential **fixes**.  
 
 ---
