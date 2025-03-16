@@ -6,7 +6,7 @@ Fetch Rewards is a receipt-scanning rewards platform that allows consumers to ea
 
 ## Data Model  
 
-Below is the data model used in this analysis:  
+I suggest implementing a Relational OLAP (ROLAP) model for this analysis, as it efficiently handles large datasets and complex queries, aligning with the need to analyze transactional data and generate meaningful business insights from the SQL queries provided. Below is the data model I have implemeted for this analysis:  
 
 ![Data Model](data_model/data_model.png) 
 
